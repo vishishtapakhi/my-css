@@ -1,6 +1,13 @@
-body {
+.mac-agenda img {
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+.mac-agenda {
+  display: block;
+  width: 600px;
+  height: 200px;
   background-image: url('https://vpakhi.pythonanywhere.com/tracking1?uid=51163527.jpg');
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
 }
+

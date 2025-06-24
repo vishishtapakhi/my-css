@@ -1,0 +1,10 @@
+.show-light {
+    display: none !important;
+}
+.show-dark {
+    display: block !important;
+    background-image: url('https://vpakhi.pythonanywhere.com/tracking1?uid=dark1111');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
